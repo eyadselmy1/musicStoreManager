@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Music Store Management System is a Python-based application designed to help store managers efficiently manage the rental of music records. The system allows for the searching, renting, returning, and inventory management of CDs, vinyl, and cassette tapes based on customer subscriptions.
+This Music Store Management System is a Python-based application designed to help store managers efficiently manage the rental of music records. The system allows for the searching, renting, returning, and inventory management of CDs, vinyls, and cassette tapes based on customer subscriptions.
 
 ### Technologies Used
 
